@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdulHaseebAlam</h1>
-<h3 align="center">A passionate frontend Backend or you can say Full Stack Developer developer from Pakistan</h3>
+<h3 align="center">A passionate frontend Backend or you can say Full Stack Developer from Pakistan 😀</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
