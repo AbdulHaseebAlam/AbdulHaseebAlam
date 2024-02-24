@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AbdulHaseebAlam</h1>
+<h1 align="center">Hi 👋, I'm Abdul Haseeb Alam</h1>
 <h3 align="center">A passionate Frontend Backend or you can say Full Stack Developer from Pakistan 😀</h3>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
